@@ -21,7 +21,7 @@ Tests 8,11,& 23
 
 
 ## Usage
-Once the files are downloaded and all the code is in place you can run the tests or the grading script. To run the tests, run ```./ray_tracer -i <test-file>``` and once it runs the output of that test file will be routed to the output.png where you can see it. This project comes with a grading script, which you can run like this: ```./grading-script.py .``` and you will see all the tests that are passed.
+Once the files are downloaded and all the code is in place you can run the tests or the grading script. To compile run ```scons```. To run the tests, run ```./ray_tracer -i <test-file>``` and once it runs the output of that test file will be routed to the output.png where you can see it. This project comes with a grading script, which you can run like this: ```./grading-script.py .``` and you will see all the tests that are passed.
 
 ### Technologies
 * C++
